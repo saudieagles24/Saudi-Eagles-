@@ -58,10 +58,15 @@ We’re a team hopeful to represent our country in the nationals
 
 # Some pictures of ourselves 
 
-![IMG_5533](https://github.com/user-attachments/assets/7607bd10-18a9-49b3-aff7-f4154f2ec10e)
+![IMG_5534](https://github.com/user-attachments/assets/03bd5298-b4e3-4aea-8ba3-af36e3ff6a46)
 
-![IMG_5538](https://github.com/user-attachments/assets/29fcd437-7906-4751-929e-97acc470f8fa)
+![IMG_5536](https://github.com/user-attachments/assets/81250dc6-7007-4113-9333-1fbc87ab9743)
 
-![IMG_5536](https://github.com/user-attachments/assets/9b01bb14-fdf2-4c19-a50d-e4fd3749160e)
+![IMG_5538](https://github.com/user-attachments/assets/471f3f66-24fe-447b-88ad-c10545c48f8c)
 
-![IMG_5534](https://github.com/user-attachments/assets/422180ee-8ebd-4ed4-a500-7c96a275bffb)
+![IMG_5533](https://github.com/user-attachments/assets/8a808d3e-81d1-423e-b818-9e01767801c7)
+
+
+
+
+
