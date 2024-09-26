@@ -45,6 +45,11 @@ HuskyLens is an easy-to-use AI camera. It can learn to recognize things, faces, 
 [https://linktr.ee/saudieagles24?utm_source=linktree_profile_share&ltsid=2ff79013-0f0b-4369-9074-603b9cb6cc6b
 ](https://linktr.ee/saudieagles24?utm_source=linktree_profile_share&ltsid=2ff79013-0f0b-4369-9074-603b9cb6cc6b)
 
+# YouTube channel link :-
+
+[https://www.youtube.com/@saudieagles24
+](https://www.youtube.com/@saudieagles24)
+
 # Team members
 Sara Alkuzayim
 <br/>Shahad Aldossary
