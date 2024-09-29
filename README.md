@@ -73,17 +73,14 @@ We’re a team hopeful to represent our country in the nationals
 
 # Some pictures of our "self driving car"
 
-![IMG_0908](https://github.com/user-attachments/assets/9e9a576c-5063-4c69-8d45-960075bc4eae)
+![IMG_5893](https://github.com/user-attachments/assets/47cf99ad-136d-42c3-8b3c-aee00238c4b8)
 
-![IMG_0911](https://github.com/user-attachments/assets/9c2f9641-1757-47ed-8de3-8ee0af2f321d)
+![IMG_5898](https://github.com/user-attachments/assets/93a9c2ab-21a1-4cb2-842b-1ec3dc9f1a6c)
 
-![IMG_0910](https://github.com/user-attachments/assets/570c932b-c180-4091-92b4-75be224ea389)
+![IMG_5894](https://github.com/user-attachments/assets/5a3e3a06-2fe8-4221-986c-071de9a5ecbd)
 
-![IMG_0909](https://github.com/user-attachments/assets/d71beb37-8b48-4dbe-88b0-ff35aeccefba)
+![IMG_5895](https://github.com/user-attachments/assets/18768ed2-dc9f-4417-9bc3-3a3dee9bd5fc)
 
-![IMG_0912](https://github.com/user-attachments/assets/6f65b9e9-1153-4c15-9640-470cd27cd1b1)
+![IMG_5896](https://github.com/user-attachments/assets/6c84f411-4e76-4ef3-8f66-be4a55c730a7)
 
-![IMG_0913](https://github.com/user-attachments/assets/10672220-1d86-406b-a916-e2d6d07fa20a)
-
-
-
+![IMG_5897](https://github.com/user-attachments/assets/f1133a4e-fdde-4124-87c0-d863f4997c23)
