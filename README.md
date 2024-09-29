@@ -1,16 +1,17 @@
 # Team Saudi Eagles (wro) future engineers
 # Description:-
 
-Since their founding, the Saudi Eagles have had one goal in mind. combining in a single vehicle the capabilities of mechanical, electrical, artificial intelligence, and cooperation. We put in the effort, kept trying, and eventually selected the right parts for our self-driving car. By doing this, we were able to make it as autonomous and efficient as possible.
-The hardest challenge is definitely figuring out how to get all of these elements to interact harmoniously without changing any dynamics. Selecting the right parts is a highly challenging step since we want our car to be the best it can be.
+Since we started 'Saudi Eagles', We have had one goal in our minds. To combine a single vehicle with the capabilities of being mechanical, electrical and powered by artificial intelligence all together. We put in the effort, kept trying, and eventually we were able to make it as autonomous and efficient as possible by selecting the right parts for our car. 
 
-We are dealing with a car that was constructed using A lightweight aluminum body, a 12V rechargeable lithium battery, a board compatible with Arduino, a separate motor drive control, three ultrasonic sensors for measuring distance from three directions, a color sensor to detect colors on the mattress, an artificial intelligence camera with multiple programs, color and object recognition, an interactive screen for displaying the camera view, a servo motor for steering to control the robot's direction, a differential mechanism to transfer power from one motor to two wheels, wide rubber wheels and motors running at 300 rpm.
+The hardest challenge was figuring out how to get all of these elements to interact harmoniously without changing any dynamics.
 
-We took great care when writing our code, going over each and every line to make sure there were no mistakes or software flaws. We made sure that each challenge is determined by our prior design, not by chance, by creating two codes.
+We are dealing with a car that was constructed using a lightweight aluminum body, a 12V rechargeable lithium battery, a board compatible with Arduino, a separate motor drive control, three ultrasonic sensors for measuring distance from three directions, a color sensor to detect colors on the mattress, an artificial intelligence camera with multiple programs, color and object recognition, an interactive screen for displaying the camera view, a servo motor for steering to control the robot's direction, a differential mechanism to transfer power from one motor to two wheels, wide rubber wheels and motors running at 300 rpm.
+
+We were extra careful when we were writing our code, going over each and every line to make sure there were no mistakes or software flaws. We had to make sure that this was not by chance, so we created two codes and tested our car multiple times to make sure our work was precise.
 
 # Ultrasonic sensor US - 100 :
 
-An ultrasonic sensor is a device that uses ultrasonic sound waves to detect the distance to an object, such as the walls or pillars. An ultrasonic sensor transmits and receives ultrasonic pulses using a transducer to determine the proximity of an item. We employed three ultrasonic left, right, and front
+An ultrasonic sensor is a device that uses ultrasonic sound waves to detect the distance to an object, such as the walls or pillars. An ultrasonic sensor transmits and receives ultrasonic pulses using a transducer to determine the proximity of an item. We put two ultrasonics, one on the left and the second one in right of our car, Then programmed them to detect and bypass objects.
 
 # RNAI Arduino Mega 2560 :
 
@@ -34,7 +35,7 @@ We used ( 6 ) 12-volt batteries
 
 # HuskeyLens AI Camera :
 
-HuskyLens is an easy-to-use AI camera. It can learn to recognize things, faces, and colors just by clicking. Its intelligence grows as it learns more. The use of a next generation AI technology enables HuskyLens to detect faces at 30 frames per second. HuskyLens connects to Arduino, Raspberry Pi, LattePanda, or micro:bit, allowing you to create really creative projects without having to deal with sophisticated algorithms. HuskyLens wants to be the simplest AI camera. It already has a variety of image processing techniques built in. Pressing buttons allows you to shift between methods, and it can learn and detect new items from photographs. Furthermore, HuskyLens features a 2.0-inch display; what you see is what you get! 
+HuskyLens is an easy-to-use AI camera. It can learn to recognize things, faces, and colors just by clicking. It's intelligence grows as it learns more. The use of a next generation AI technology enables HuskyLens to detect faces at 30 frames per second. HuskyLens connects to Arduino, Raspberry Pi, LattePanda, or micro:bit, allowing you to create really creative projects without having to deal with sophisticated algorithms. HuskyLens wants to be the simplest AI camera. It already has a variety of image processing techniques built in. Pressing buttons allows you to shift between methods, and it can learn and detect new items from photographs. Furthermore, HuskyLens features a 2.0-inch display; what you see is what you get. 
 
 # Future Engineers Rules:
 
@@ -59,7 +60,7 @@ Sara Alkuzayim
 
 # About us 
 
-We’re a team hopeful to represent our country in the nationals 
+Our team is aspiring to compete in the nationals and to continue representing our nation in future competitions.
 
 # Some pictures of ourselves 
 
