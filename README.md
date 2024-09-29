@@ -85,9 +85,5 @@ We’re a team hopeful to represent our country in the nationals
 
 ![IMG_0913](https://github.com/user-attachments/assets/10672220-1d86-406b-a916-e2d6d07fa20a)
 
-# Funny Photos 
 
-![IMG_1132](https://github.com/user-attachments/assets/c65dcd22-aca0-4d9d-8e18-3b091226e020)
-
-![IMG_1143](https://github.com/user-attachments/assets/ce0d8c14-9864-4936-b626-be2584e48b8f)
 
