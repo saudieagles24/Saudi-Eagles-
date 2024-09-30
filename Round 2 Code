@@ -1,0 +1,128 @@
+#include "HUSKYLENS.h"
+HUSKYLENS huskylens;
+#include <RN.h>
+RN sensor(18, 19);//Right ultrasonic
+RN sensor1(14, 15);//Left ultrasonic
+//RN sensor2(14, 15);//front ultrasonic
+const int servoPin = 2;
+RN motor(8,9,10); // create a new instance of the RN class
+const int S0 = 3;
+const int S1 = 4;
+const int S2 = 5;
+const int S3 = 6;
+const int sensorOut = 7;
+int mask=0;
+unsigned int RedValue =0;
+unsigned int timer =0;
+int v=0;
+bool control=0;
+int x=0;
+// Create an instance of the RN library
+RN colorSensor(S0, S1, S2, S3, sensorOut);
+// Create an instance of the RN library
+RN servoController(servoPin);
+int rightDistance,leftDistance,frontDistance ;
+int count=0;
+int  programState=1;
+int angel=78;
+int blockID=0;
+void getBlockID();
+void getDistance();
+void RedBlock();
+void setup() {
+  pinMode(11,OUTPUT);
+  pinMode(12,OUTPUT);
+
+    Serial.begin(115200);
+    Wire.begin();
+    servoController.Servobegin();
+    colorSensor.begin();
+    while (!huskylens.begin(Wire))
+    {
+        Serial.println(F("Begin failed!"));
+        delay(100);
+    
+    }
+
+}
+
+void loop() {
+  if( programState==1) {
+    delay(2);
+  servoController.setServoPosition(angel);
+  motor.setMotorDirection(1); // rotate the motor in one direction
+  motor.setMotorSpeed(180); // set the motor speed to maximum 0_255
+  getDistance();
+rightDistance=sensor.getDistance();
+// leftDistance=sensor1.getDistance();
+if( x==1 &&  millis()-timer >=1000 ) 
+{ 
+  control=0;  
+  
+  x=0;
+ } 
+
+if(control==0){
+  digitalWrite(11,0); 
+
+  v= map(rightDistance,5,70,60,100);   //نزيد المساحة عشان اللفة 
+  angel=constrain(v,60,100);
+             }
+  if(control==1){
+ v= map(leftDistance,0,70,115,45);
+  angel=constrain(v,65,120);
+  if(leftDistance<15)angel=120;
+    digitalWrite(11,1); 
+
+                }
+  RedValue = colorSensor.getIntensityR();
+  Serial.println(RedValue);
+         if(RedValue>400)
+     {   count=count+1;  
+         servoController.setServoPosition(50);  // Adjust the value as desired
+         delay(1000);  // Wait for 1 seconds 
+         control=1; 
+         timer=millis();                           
+     }
+  getBlockID();
+  if(blockID==1){
+    RedBlock();
+      motor.setMotorSpeed(145);//60 in green  block
+    }
+ 
+  }
+  if(count==12)
+     {  
+ motor.stopMotor(); // stop the motor
+ programState=0;
+     }
+}
+
+
+void getBlockID(){
+   if (!huskylens.request()) Serial.println(F("Fail to request data from HUSKYLENS, recheck the connection!"));
+    else if(!huskylens.available()) blockID=0;
+       else if(huskylens.available())
+        {
+          HUSKYLENSResult result = huskylens.read();
+          blockID=result.ID;
+        }  
+
+}
+
+
+void getDistance(){
+rightDistance=sensor.getDistance();
+leftDistance=sensor1.getDistance();
+//frontDistance=sensor2.getDistance();
+}
+void RedBlock(){
+mask=3;
+servoController.setServoPosition(120);
+delay(400);
+servoController.setServoPosition(80);
+delay(150);
+control=0;
+x=1;
+
+}
