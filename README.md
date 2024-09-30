@@ -1,13 +1,17 @@
 # Team Saudi Eagles (wro) future engineers
 # Description:-
 
-Since we started 'Saudi Eagles', We have had one goal in our minds. To combine a single vehicle with the capabilities of being mechanical, electrical and powered by artificial intelligence all together. We put in the effort, kept trying, and eventually we were able to make it as autonomous and efficient as possible by selecting the right parts for our car. 
+Since the inception of the 'Saudi Eagles' project, our team has been driven by a singular vision: to engineer a vehicle that seamlessly integrates mechanical, electrical, and artificial intelligence capabilities into a cohesive unit. Through persistent effort and determination, we have successfully developed a system that is both autonomous and efficient, carefully selecting components that enhance the overall performance of our vehicle.
 
-The hardest challenge was figuring out how to get all of these elements to interact harmoniously without changing any dynamics.
+One of the most significant challenges we faced was achieving harmonious interaction among the various elements of the vehicle without compromising any of its operational dynamics. This required extensive research and innovative problem-solving to ensure that each component worked effectively with the others.
 
-We are dealing with a car that was constructed using a lightweight aluminum body, a 12V rechargeable lithium battery, a board compatible with Arduino, a separate motor drive control, three ultrasonic sensors for measuring distance from three directions, a color sensor to detect colors on the mattress, an artificial intelligence camera with multiple programs, color and object recognition, an interactive screen for displaying the camera view, a servo motor for steering to control the robot's direction, a differential mechanism to transfer power from one motor to two wheels, wide rubber wheels and motors running at 300 rpm.
+Our vehicle is constructed using a lightweight aluminum chassis, which contributes to its agility and efficiency. It is powered by a 12V rechargeable lithium battery, ensuring sustainability and extended functionality. The vehicle utilizes an Arduino-compatible board, coupled with a dedicated motor drive control system. To enhance its navigational capabilities, we have incorporated three ultrasonic sensors that measure distance from three distinct directions. Additionally, a color sensor is included to detect colors on various surfaces, while an artificial intelligence camera is equipped with multiple programs for color and object recognition.
 
-We were extra careful when we were writing our code, going over each and every line to make sure there were no mistakes or software flaws. We had to make sure that this was not by chance, so we created two codes and tested our car multiple times to make sure our work was precise.
+An interactive screen has been integrated into the system to display real-time footage from the camera, allowing for better operational oversight. To control the direction of the vehicle, a servo motor is employed for steering, complemented by a differential mechanism that effectively transfers power from a single motor to two wheels. The vehicle is designed with wide rubber wheels and motors capable of operating at 300 rpm, providing both stability and speed.
+
+In the development phase, we exercised meticulous care in writing our code, scrutinizing each line to eliminate errors and ensure robust software performance. To reinforce the reliability of our programming, we developed two distinct code versions and conducted multiple tests on the vehicle. This rigorous testing process was essential to confirm the precision of our work and to guarantee that our achievements were not merely coincidental, but rather the result of careful planning and execution. 
+
+Through these efforts, we are proud to present a vehicle that not only meets our initial goals but also sets a foundation for future advancements in autonomous vehicle technology.
 
 # Ultrasonic sensor US - 100 :
 
