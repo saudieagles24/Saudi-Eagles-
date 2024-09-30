@@ -11,7 +11,7 @@ RN colorSensor(S0, S1, S2, S3, sensorOut);
 // Create an instance of the RN library
 RN servoController(servoPin);
 RN sensor(18, 19); // create an instance of RN class with trig pin 14 and echo pin 15
-RN sensor1(17, 16);
+RN sensor1(2, 13);
 int count=0;
 int  programState=1;
 int d=80;
