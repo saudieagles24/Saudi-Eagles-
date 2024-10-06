@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+our+team+profile !;Enjoy+Browsing!!&font=Fira%20Code&center=true&width=500&height=100&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 # Team Saudi Eagles (wro) future engineers
 # Description:-
 
@@ -21,9 +25,9 @@ An ultrasonic sensor is a device that uses ultrasonic sound waves to detect the 
 
 The Arduino Mega 2560 is a microcontroller board that is built around the ATmega2560. A 16 MHz crystal oscillator, 4 hardware serial ports, 16 analog inputs, 54 digital input/output pins (15 of which can be used as PWM outputs), a USB port, a power jack, an ICSP header, and a reset button are all included.
 
-# Servo MG995 :
+# Servo Motor SG90 :
 
-Numerous RC models, automobiles, helicopters, and planes employ the high-speed standard MG995 Metal Gear Servo Motor. It has a 180-degree rotational range (60 degrees in each direction). both 12 kg/cm at 6 V and 10 kg/cm at 4.8 V are delivered. This digital servo motor processes and receives PWM signals more quickly and efficiently.
+Small and reasonably priced, the SG90 servo motor finds frequent usage in robotics, do-it-yourself projects, and educational settings. It has plastic gears and is inexpensive and lightweight, making it ideal for applications requiring little torque.
 
 # Dc Motor 12V 1200RPM :
 
