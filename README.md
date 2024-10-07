@@ -19,7 +19,7 @@ Through these efforts, we are proud to present a vehicle that not only meets our
 
 # Ultrasonic sensor US - 100 :
 
-An ultrasonic sensor is a device that uses ultrasonic sound waves to detect the distance to an object, such as the walls or pillars. An ultrasonic sensor transmits and receives ultrasonic pulses using a transducer to determine the proximity of an item. We put two ultrasonics, one on the left and the second one in right of our car, Then programmed them to detect and bypass objects.
+An ultrasonic sensor is a device that uses ultrasonic sound waves to detect the distance to an object, such as the walls or pillars. An ultrasonic sensor transmits and receives ultrasonic pulses using a transducer to determine the proximity of an item. We put two ultrasonics, one on the left , the second one in right of our car, and the third one in front, Then programmed them to detect and bypass objects.
 
 # RNAI Arduino Mega 2560 :
 
@@ -39,7 +39,7 @@ The L298N is a dual H-Bridge motor driver that can simultaneously regulate two D
 
 # Batteries :
 
-We used ( 6 ) 12-volt batteries
+We used ( 6 ) lithium 12-volt batteries
 
 # HuskeyLens AI Camera :
 
