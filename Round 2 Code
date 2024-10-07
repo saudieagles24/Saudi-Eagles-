@@ -3,7 +3,7 @@ HUSKYLENS huskylens;
 #include <RN.h>
 RN sensor(18, 19); // Right ultrasonic
 RN sensor1(14, 15); // Left ultrasonic
-//RN sensor2(14, 15); // front ultrasonic
+//RN sensor2(10, 11); // front ultrasonic
 const int servoPin = 2;
 RN motor(8,9,10); // create a new instance of the RN class
 const int S0 = 3;
