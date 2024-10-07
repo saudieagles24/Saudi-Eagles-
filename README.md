@@ -41,6 +41,10 @@ The L298N is a dual H-Bridge motor driver that can simultaneously regulate two D
 
 We used ( 6 ) lithium 12-volt batteries
 
+# MPU 9250 :
+
+The MPU-9250 can measure rotation using its on-chip gyroscope with four programmable full-scale ranges of ±250°/s, ±500°/s, ±1000°/s and ±2000°/s that can be set by the user. The integrated 16-bit ADCs simultaneously sample the 3 axis of rotation around the X, Y and Z axes. The sample rate can be adjusted from 3.9 to 8000 samples per second. The axis of rotation is relative to the X, Y and Z shown to the right.
+
 # HuskeyLens AI Camera :
 
 HuskyLens is an easy-to-use AI camera. It can learn to recognize things, faces, and colors just by clicking. It's intelligence grows as it learns more. The use of a next generation AI technology enables HuskyLens to detect faces at 30 frames per second. HuskyLens connects to Arduino, Raspberry Pi, LattePanda, or micro:bit, allowing you to create really creative projects without having to deal with sophisticated algorithms. HuskyLens wants to be the simplest AI camera. It already has a variety of image processing techniques built in. Pressing buttons allows you to shift between methods, and it can learn and detect new items from photographs. Furthermore, HuskyLens features a 2.0-inch display; what you see is what you get. 
